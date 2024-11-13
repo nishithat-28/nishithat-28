@@ -1,16 +1,20 @@
 # 👋 Hi there, I am Nishitha 
 
-I'm a **Computer Science student** with a passion for **Machine Learning**, **Data Science**, and **Generative AI**.
+**Computer Science student** with a passion for **Data Science**
 
-I enjoy working on projects that use data to solve real-world problems and have experience in:
+## 🚀 About Me
+
+Worked on projects that use data to solve real-world problems and have experience in:
 
 - Building predictive models 📈
 - Performing data analysis 🔍
 - Crafting AI chatbots for engaging, interactive experiences 🤖
 
+Currently exploring Deep Learning and Natural Language Processing (NLP) to expand my skills in AI and tackle complex challenges
+
 I'm excited to keep pushing boundaries and exploring the endless possibilities in this field! 🚀
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishitha-tirumalaraju-70a93a276/)
 
 <!--
