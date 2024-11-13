@@ -1,10 +1,6 @@
-<div align="center">
-
 # 👋 Hi there, I am Nishitha 
 
-I'm a **Computer Science student** with a passion for **Machine Learning**, **Data Science**, and **Generative AI**.
-
-</div>
+#### I'm a **Computer Science student** with a passion for **Machine Learning**, **Data Science**, and **Generative AI**.
 
 I enjoy working on projects that use data to solve real-world problems and have experience in:
 
