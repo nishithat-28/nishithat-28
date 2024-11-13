@@ -10,9 +10,9 @@ Worked on projects that use data to solve real-world problems and have experienc
 - Performing data analysis 🔍
 - Crafting AI chatbots for engaging, interactive experiences 🤖
 
-Currently exploring Deep Learning and Natural Language Processing (NLP) to expand my skills in AI and tackle complex challenges
+Currently exploring Deep Learning and Natural Language Processing (NLP) to expand my skills in AI and tackle complex challenges. 
 
-I'm excited to keep pushing boundaries and exploring the endless possibilities in this field! 🚀
+I'm excited to keep pushing boundaries and exploring the endless possibilities in this field!  🌟
 
 ## 📫 Let's Connect
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishitha-tirumalaraju-70a93a276/)
