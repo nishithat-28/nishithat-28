@@ -1,4 +1,4 @@
-# Hi there, I am Nishitha 👋
+# 👋 Hi there, I am Nishitha 
 
 I'm a **Computer Science student** with a passion for **Machine Learning**, **Data Science**, and **Generative AI**.
 
@@ -10,7 +10,7 @@ I enjoy working on projects that use data to solve real-world problems and have 
 
 I'm excited to keep pushing boundaries and exploring the endless possibilities in this field! 🚀
 
-### Let's Connect
+## 📫 Let's Connect
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishitha-tirumalaraju-70a93a276/)
 
