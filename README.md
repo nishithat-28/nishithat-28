@@ -10,7 +10,8 @@ I enjoy working on projects that use data to solve real-world problems and have 
 
 I'm excited to keep pushing boundaries and exploring the endless possibilities in this field! 🚀
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nishitha-tirumalaraju-70a93a276)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishitha-tirumalaraju-70a93a276/)
+
 <!--
 **nishithat-28/nishithat-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
