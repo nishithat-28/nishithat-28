@@ -1,7 +1,11 @@
+<div align="center">
+
 # 👋 Hi there, I am Nishitha 
 
 I'm a **Computer Science student** with a passion for **Machine Learning**, **Data Science**, and **Generative AI**.
-<br>
+
+</div>
+
 I enjoy working on projects that use data to solve real-world problems and have experience in:
 
 - Building predictive models 📈
