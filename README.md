@@ -21,7 +21,10 @@ I'm excited to keep pushing boundaries and exploring the endless possibilities i
 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishithat-28&theme=tokyonight" alt="mystreak"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishithat-28&theme=tokyonight" alt="mystreak"/>
+</p>
+
 
 
 
