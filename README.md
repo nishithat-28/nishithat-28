@@ -1,7 +1,8 @@
-# 👋 Hi there, I am Nishitha 
-
+# Hi there, I am Nishitha 👋 
+![alt](https://github.com/nishithat-28/nishithat-28/blob/main/header1.png)
+<!--
 **Computer Science student** with a passion for **Data Science**
-
+-->
 ## 🚀 About Me
 
 Worked on projects that use data to solve real-world problems and have experience in:
